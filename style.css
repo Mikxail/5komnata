@@ -1636,10 +1636,10 @@ blockquote:hover {
 }
 
 /*slider*/
-/*.flex-direction-nav {
+.flex-control-nav {
         display: none !important;
 }
 .ssp_no_chrome_slider_default {
         box-shadow: none !important;
-}*/
+}
 /*/slider*/
