@@ -310,7 +310,6 @@ HEADER ELEMENTS
         position:relative;
         border:0px solid #f3f3f3;
         width:98.7%;
-        height:750px;
         margin-top:0px;
         margin-right:0px;
 	margin-bottom:50px;
@@ -391,6 +390,8 @@ HEADER ELEMENTS
         -moz-transition: all 0.3s 0.01s ease;
         -o-transition: all 0.3s 0.01s ease;
         -webkit-transition: all 0.3s 0.01s ease;
+        margin: 20px;
+        display: inline-block;
 	}
 
 .more-link a:hover {
