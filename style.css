@@ -1636,7 +1636,7 @@ blockquote:hover {
 }
 
 /*slider*/
-.flex-control-nav {
+ol.flex-control-nav {
         display: none !important;
 }
 .ssp_no_chrome_slider_default {
