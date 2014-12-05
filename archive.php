@@ -14,7 +14,7 @@
 						<?php } ?>
 						<?php if(is_category()) { ?>
 						<div id="archive-title">
-						<h2>Категория "<strong><?php $current_category = single_cat_title("", true); ?></strong>"</h2>
+						<h2><strong><?php $current_category = single_cat_title("", true); ?></strong></h2>
 						</div>
 						<?php } ?>
 						<?php if(is_tag()) { ?>
