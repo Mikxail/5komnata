@@ -7,10 +7,7 @@
 function the_breadcrumb() {
 	echo '';
 	if (!is_front_page()) {
-		echo '<h3><a href="';
-		echo get_option('home');
-		echo '">Блог';
-		echo "</a> ";
+		echo '<h3>';
 		if (is_category() || is_single()) {
 			the_category(' ');
 			if (is_single()) {

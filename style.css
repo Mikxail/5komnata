@@ -1643,3 +1643,9 @@ ol.flex-control-nav {
         box-shadow: none !important;
 }
 /*/slider*/
+
+/*my fix*/
+.relatedPosts {
+        display: none;
+}
+/*/my fix*/
