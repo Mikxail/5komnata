@@ -1646,6 +1646,6 @@ ol.flex-control-nav {
 
 /*my fix*/
 .relatedPosts {
-        display: none;
+        display: none !important;
 }
 /*/my fix*/
